@@ -3,7 +3,7 @@
 </h1>
 ## Live Demo of Discord Clone 🔥
 
-**Live Demo** : https://csb-tx7zx.netlify.app/ <br>
+**Live Demo** : https://discord-clone-react.vercel.app/ <br>
 
 
 ## Discord Clone Features 🎮
