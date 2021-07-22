@@ -43,7 +43,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar__top">
-        <h4>Super Savio</h4>
+        <h4>Channels</h4>
         <ExpandMoreIcon />
       </div>
 
